@@ -9,6 +9,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/gopinath_king_gm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gopinath_king_gm" height="30" width="40" /></a>
+ <a href="https://twitter.com/Gopinath_GKing" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="Gopinath_GKing" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages :</h3>
