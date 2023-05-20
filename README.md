@@ -4,7 +4,7 @@
 
 - 📫 How to reach me **www.gopinath26@gmail.com**
 
-- My Hobbies are playing chess and solve Rubiks cube and reading spiritual books .
+- 📚 My Hobbies are playing chess and solve Rubiks cube and reading spiritual books .
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
