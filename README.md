@@ -2,7 +2,7 @@
 
  - 🌱 I’m currently learning **Java**
 
-- 📫 How to reach me **www.gopinath26@gmail.com**
+- 📫 How to reach me **gopinathv2023@gmail.com**
 
 - 📚 My Hobbies are playing chess and solve Rubiks cube and reading spiritual books .
 
